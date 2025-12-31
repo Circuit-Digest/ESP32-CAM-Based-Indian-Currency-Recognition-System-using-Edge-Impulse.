@@ -1,4 +1,4 @@
-IoT-Based Indian Currency Detection System using ESP32 and Edge Impulse
+ESP32-CAM Based Indian Currency Recognition System using Edge Impulse
 
 An intelligent on-device currency recognition system using **ESP32-CAM** and **Edge Impulse** for real-time detection of Indian currency notes. The system identifies currency denominations locally on the ESP32-CAM and indicates results using LEDs and the Serial Monitor.
 
