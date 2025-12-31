@@ -131,6 +131,3 @@ A: Not currently — this can be added with model training.
 Q: Which ESP32-CAM board is supported?
 A: AI Thinker ESP32-CAM module
 
-👨‍💻 Author
-
-Developed as an AI on Edge embedded project using ESP32-CAM and Edge Impulse.
