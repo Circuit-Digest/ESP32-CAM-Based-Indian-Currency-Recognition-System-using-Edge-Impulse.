@@ -1,5 +1,5 @@
 ESP32-CAM Based Indian Currency Recognition System using Edge Impulse
-
+---
 An intelligent on-device currency recognition system using **ESP32-CAM** and **Edge Impulse** for real-time detection of Indian currency notes. The system identifies currency denominations locally on the ESP32-CAM and indicates results using LEDs and the Serial Monitor.
 
 ---
@@ -123,10 +123,10 @@ Larger dataset for better accuracy
 ❓ FAQs
 
 Q: Is internet required for detection?
-A: No — inference runs locally on the ESP32-CAM.
+A: No - inference runs locally on the ESP32-CAM.
 
 Q: Can it detect fake currency notes?
-A: Not currently — this can be added with model training.
+A: Not currently-this can be added with model training.
 
 Q: Which ESP32-CAM board is supported?
 A: AI Thinker ESP32-CAM module
