@@ -80,9 +80,11 @@ The ESP32-CAM communicates with a USB-to-Serial adapter for uploading code and s
 - Train and evaluate the model
 
 ### Step 4: Upload Inference Code
-Add:
-```c
-#define CAMERA_MODEL_AI_THINKER
+Add: #define CAMERA_MODEL_AI_THINKER
+
+
+---
+Upload the final sketch to the ESP32-CAM.
 
 💵 Supported Currency Notes
 
@@ -132,4 +134,3 @@ A: AI Thinker ESP32-CAM module
 👨‍💻 Author
 
 Developed as an AI on Edge embedded project using ESP32-CAM and Edge Impulse.
-
